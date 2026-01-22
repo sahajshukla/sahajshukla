@@ -34,7 +34,7 @@
 
 ```javascript
 const sahaj = {
-    location: "Hoboken, NJ 🇺🇸",
+    location: "Jersey City, NJ 🇺🇸",
     education: "MS Business Intelligence & Analytics @ Stevens Institute",
 
     currentlyLearning: ["LLMs", "RAG Systems", "LoRA Fine-tuning", "Diffusion Models"],
