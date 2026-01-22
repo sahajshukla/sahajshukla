@@ -138,7 +138,7 @@ const sahaj = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sahajshukla&theme=darkhub&column=7&margin-w=15&margin-h=15" />
+<img src="https://github-trophies.vercel.app/?username=sahajshukla&theme=darkhub&column=7&margin-w=15&margin-h=15" />
 </div>
 
 <div align="center">
