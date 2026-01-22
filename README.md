@@ -118,13 +118,17 @@ const sahaj = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sahajshukla&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=sahajshukla&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+<a href="https://github.com/sahajshukla">
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sahajshukla&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/sahajshukla">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=sahajshukla&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&stroke=00D9FF" />
+</a>
 
 </div>
 
 <div align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahajshukla&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
+<img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sahajshukla&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
 </div>
 
 <div align="center">
