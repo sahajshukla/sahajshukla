@@ -11,14 +11,17 @@
 <br/>
 
 <!-- Social Badges -->
+<a href="https://sahajshukla.vercel.app">
+  <img src="https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://vantageauditos.com">
+  <img src="https://img.shields.io/badge/-VANTAGE_AUDITOS-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 <a href="https://www.linkedin.com/in/sahajshukla/">
   <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:sahajshukla@gmail.com">
   <img src="https://img.shields.io/badge/-GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/sahajshukla?tab=repositories">
-  <img src="https://img.shields.io/badge/-REPOS-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=sahajshukla&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
 
@@ -154,11 +157,7 @@ const sahaj = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahajshukla/sahajshukla/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahajshukla/sahajshukla/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sahajshukla/sahajshukla/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/sahajshukla/sahajshukla/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
