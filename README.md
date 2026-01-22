@@ -1,73 +1,141 @@
-# Hey, I'm Sahaj 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sahaj%20Shukla&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Data%20Explorer&descAlignY=52&descSize=18"/>
 
-**AI Engineer** | Full-Stack Developer | Data Explorer
+<p align="center">
+  <a href="https://github.com/sahajshukla">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Building+AI+systems+that+solve+real+problems;Neural+networks+%E2%86%92+Autonomous+RC+Cars;Deep+learning+%E2%86%92+Understanding+baby+cries;Currently+mastering+LLMs%2C+RAG+%26+Fine-tuning;Open+to+AI%2FML+Engineering+opportunities" alt="Typing SVG" />
+  </a>
+</p>
 
-I build intelligent systems that solve real problems. From neural networks driving RC cars to AI that understands why babies cry — I love turning complex ideas into working code.
-
-Currently diving deep into **AI Engineering**: LLMs, RAG systems, fine-tuning, and production ML pipelines.
+<p align="center">
+  <a href="https://www.linkedin.com/in/sahajshukla/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sahajshukla@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/sahajshukla/portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=sahajshukla&style=for-the-badge&color=6C63FF"/>
+</p>
 
 ---
 
-### 🔧 Tech Stack
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-**AI/ML**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+### 🧠 About Me
 
-**Full-Stack**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+```python
+class SahajShukla:
+    def __init__(self):
+        self.role = "AI Engineer"
+        self.location = "Hoboken, NJ"
+        self.education = "MS Business Intelligence @ Stevens"
+        self.languages = ["Python", "TypeScript", "JavaScript"]
 
-**Tools & Infrastructure**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+    def current_focus(self):
+        return [
+            "LLMs & Prompt Engineering",
+            "RAG Systems",
+            "LoRA Fine-tuning",
+            "Diffusion Models",
+            "Production ML Pipelines"
+        ]
+
+    def fun_fact(self):
+        return "I've explored 3 countries for work 🌍"
+```
+
+<br clear="right"/>
+
+---
+
+### 🛠️ Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,fastapi,aws,git,linux&theme=dark" />
+</p>
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**AutoRCCar**](https://github.com/sahajshukla/AutoRCCar) | Autonomous RC car using neural networks and computer vision | Python, OpenCV, Neural Networks |
-| [**Baby Cry Predictor**](https://github.com/sahajshukla/Baby_cry_predictor) | AI that classifies why a baby is crying (hungry, tired, pain, etc.) | Python, Deep Learning |
-| [**FIFA Recommendation System**](https://github.com/sahajshukla/kaggle-FIFA-recommendation-system) | Optimize FIFA team building using PCA and KNN | Python, ML, Clustering |
-| [**Style Transfer**](https://github.com/sahajshukla/style-transfer) | Neural style transfer implementation | Python, PyTorch |
+<p align="center">
+  <a href="https://github.com/sahajshukla/AutoRCCar">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahajshukla&repo=AutoRCCar&theme=tokyonight&hide_border=true&border_radius=15" />
+  </a>
+  <a href="https://github.com/sahajshukla/Baby_cry_predictor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahajshukla&repo=Baby_cry_predictor&theme=tokyonight&hide_border=true&border_radius=15" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sahajshukla/kaggle-FIFA-recommendation-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahajshukla&repo=kaggle-FIFA-recommendation-system&theme=tokyonight&hide_border=true&border_radius=15" />
+  </a>
+  <a href="https://github.com/sahajshukla/style-transfer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahajshukla&repo=style-transfer&theme=tokyonight&hide_border=true&border_radius=15" />
+  </a>
+</p>
+
+<details>
+<summary><b>🔍 What these projects do</b></summary>
+<br/>
+
+| Project | The Cool Part |
+|---------|---------------|
+| **AutoRCCar** | Self-driving RC car using neural networks + OpenCV for real-time computer vision |
+| **Baby Cry Predictor** | AI that analyzes audio to tell you *why* a baby is crying (hungry? tired? pain?) |
+| **FIFA Recommender** | Uses PCA + KNN to find undervalued players with similar stats to expensive stars |
+| **Style Transfer** | Neural network that applies artistic styles to any image (like Prisma) |
+
+</details>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Analytics
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sahajshukla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahajshukla&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sahajshukla&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahajshukla&theme=tokyonight&hide_border=true&border_radius=15" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahajshukla&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" />
 </p>
 
 ---
 
-### 🎯 Currently
+### 🏆 GitHub Trophies
 
-- 🧠 Learning: LLMs, RAG, LoRA fine-tuning, diffusion models
-- 🔨 Building: AI-powered projects for my portfolio
-- 💼 Open to: AI/ML Engineering roles
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sahajshukla&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" />
+</p>
 
 ---
 
-### 📫 Connect
+### 📈 Contribution Graph
 
-[![Email](https://img.shields.io/badge/Email-sahajshukla%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:sahajshukla@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahajshukla)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=vercel&logoColor=white)](https://github.com/sahajshukla/portfolio)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahajshukla&theme=tokyo-night&hide_border=true&border_radius=15&area=true" />
+</p>
+
+---
+
+### 🎯 Current Mission
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🧠_Learning-LLMs_%7C_RAG_%7C_LoRA_%7C_Diffusion-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔨_Building-AI_Portfolio_Projects-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💼_Open_To-AI%2FML_Engineering_Roles-00D9FF?style=for-the-badge"/>
+</p>
+
+---
+
+### 💭 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahajshukla&color=blueviolet&style=flat" alt="Profile views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </p>
